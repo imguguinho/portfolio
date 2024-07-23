@@ -219,4 +219,9 @@ textarea {
 	#navbar {
 		font-size: 10px;
 	}
+
+	.redes-container ul li {
+		height: 48px;
+		width: 48px;
+	}
 }
